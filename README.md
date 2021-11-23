@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Swaythana
-- 👀 I’m interested in Machine Learning domain
+- 👀 I’m interested in Java full stack and Machine Learning domain
 - 🌱 I’m currently learning Azure Technology
 - 📫 How to reach me swaythana444@gmail.com
 
